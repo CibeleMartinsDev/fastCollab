@@ -31,3 +31,18 @@ body {
     text-wrap: balance;
   }
 }
+
+cord-page-presence .cord-avatar-container {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+ 
+}
+
+cord-thread .cord-send-button  {
+  background-color: #ee6611;
+  }
+  
+  cord-thread .cord-send-button:hover  {
+    background-color: #ff7722;
+  }
